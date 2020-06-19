@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "757682255166",
+    "firebase_url": "https://market-f483e.firebaseio.com",
+    "project_id": "market-f483e",
+    "storage_bucket": "market-f483e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757682255166:android:ae4947abee21a71c74e86f",
+        "android_client_info": {
+          "package_name": "com.example.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757682255166-rhudi5glpnqaleru32hotocg61fa22ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learning",
+            "certificate_hash": "b97dbe046db6a6483ba9e81534c703ad6e5c3bc6"
+          }
+        },
+        {
+          "client_id": "757682255166-ofc7rvpijpccoaj8718c802icsteqqlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSP-4bdOt9quLycenxs94SxONBy9oQAEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757682255166-ofc7rvpijpccoaj8718c802icsteqqlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

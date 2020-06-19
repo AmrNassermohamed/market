@@ -1,0 +1,9 @@
+[7696:7480:0611/005859.730:594453:ERROR:network_impl.cc(307)] [AU] Send Request status: 35
+[7696:7480:0611/005859.730:594453:ERROR:network_impl.cc(508)] [AU] Request sending failed. HTTP return code: 0
+[7696:7480:0611/005941.305:636031:ERROR:network_impl.cc(307)] [AU] Send Request status: 35
+[7696:7480:0611/005941.305:636031:ERROR:network_impl.cc(508)] [AU] Request sending failed. HTTP return code: 0
+[7696:7480:0611/010032.505:687218:ERROR:network_impl.cc(307)] [AU] Send Request status: 35
+[7696:7480:0611/010032.505:687218:ERROR:network_impl.cc(508)] [AU] Request sending failed. HTTP return code: 0
+[7696:7480:0611/010121.253:736187:ERROR:network_impl.cc(307)] [AU] Send Request status: 35
+[7696:7480:0611/010121.253:736187:ERROR:network_impl.cc(508)] [AU] Request sending failed. HTTP return code: 0
+[7696:7480:0611/010121.261:736203:WARNING:update_check_handler_impl_win.cc(75)] [AU] Task failure count : 49
